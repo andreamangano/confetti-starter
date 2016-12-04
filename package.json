@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Scaffolding for Confetti.",
   "author": "Andrea Mangano <andreaman87@gmail.com> (http://andreamangano.com)",
+  "scripts": {
+    "build": "confetti-loader --config confetti.loader.json | confetti-generator"
+  },
   "license": "ISC",
   "repository": {
     "type": "git",
