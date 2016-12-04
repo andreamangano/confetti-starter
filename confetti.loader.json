@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "settings": "./src/settings.yml",
+    "slides": "./src/data/slides.yml",
+    "themes": "./src/themes",
+    "dist": "./dist"
+  }
+}

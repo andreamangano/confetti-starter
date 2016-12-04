@@ -1,0 +1,50 @@
+# Presentation category/categories - Required
+categories: [ tag1, tag2, tag3 ]
+# Presentation title
+title: Title of your beautiful presentation
+# Subtitle - Not mandatory
+subtitle: Subtitle of your presentation
+# Cover - Required
+cover: http://www.placehold.it/1600x900/sucoamdeda000000/000000
+# Author - Required
+author:
+  name: Name of Author
+  role: Role
+  picture: http://www.placehold.it/150
+# Demo - not mandatory
+demo: http://www.placehold.it/
+# Material - not mandatory
+material: http://www.placehold.it/
+# Presentation description - not mandatory
+description: >
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel aliquam eros,
+    quis commodo arcu. Nullam quis tortor efficitur, vestibulum sem non, sollicitudin dolor.
+    Integer non eros vel felis tristique bibendum. Nullam volutpat nunc ante, quis
+    fermentum neque pulvinar nec.
+  </p>
+  <p>
+    Curabitur maximus eleifend tortor, at efficitur orci laoreet nec. Cras eu
+    semper elit, nec hendrerit metus. Nullam eget eros sodales, dapibus
+    diam id, iaculis tortor. Praesent eget rhoncus justo.
+  </p>
+# Language
+lang: en_EN
+# Date / Time format
+## Confetti uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+# Meta tags
+meta:
+  # Title - required
+  title: Title of your presentation here
+  description: Description here
+  # Replace with your tags
+  tags:
+    - Confetti
+    - Cms
+    - Presentation
+    - Speaker Deck
+
+theme: tangerine
