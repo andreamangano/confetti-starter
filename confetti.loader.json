@@ -4,5 +4,10 @@
     "slides": "./src/data/slides.yml",
     "themes": "./src/themes",
     "dist": "./dist"
+  },
+  "compilers": {
+    "sass": {
+      "includePaths": "./node_modules/"
+    }
   }
 }
