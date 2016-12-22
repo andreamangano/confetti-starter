@@ -1,5 +1,5 @@
 # Trick to track the theme folder empty.
 
-*
+.gitignore
 */
 !.gitignore

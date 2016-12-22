@@ -1,13 +1,8 @@
 {
   "name": "confetti-starter",
   "version": "0.0.1",
-  "description": "Scaffolding for Confetti.",
+  "description": "Scaffols for Confetti.",
   "author": "Andrea Mangano <andreaman87@gmail.com> (http://andreamangano.com)",
-  "scripts": {
-    "browsersync": "browser-sync start --server 'dist' --no-open --files 'dist'",
-    "test": "confetti-loader --config confetti.loader.json",
-    "build": "confetti-loader --config confetti.loader.json | confetti-generator"
-  },
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -15,12 +10,5 @@
   },
   "bugs": {
     "url": "https://github.com/andreamangano/confetti-starter/issues"
-  },
-  "dependencies": {
-    "confetti-generator": "^0.1.11",
-    "confetti-loader": "0.0.4"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.18.2"
   }
 }
