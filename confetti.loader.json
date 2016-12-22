@@ -1,8 +1,8 @@
 {
   "paths": {
-    "settings": "./src/settings.yml",
-    "slides": "./src/data/slides.yml",
-    "themes": "./src/themes",
+    "settings": "./settings.yml",
+    "slides": "./data/slides.yml",
+    "themes": "./themes",
     "dist": "./dist"
   },
   "compilers": {
