@@ -3,9 +3,9 @@ categories: [ tag1, tag2, tag3 ]
 # Presentation title
 title: Title of your beautiful presentation
 # Subtitle - Not mandatory
-subtitle: Subtitle of your presentation
+subtitle: Presentation subtitle
 # Cover - Required
-cover: http://www.placehold.it/1600x900/sucoamdeda000000/000000
+cover: cover-intro.jpeg
 # Author - Required
 author:
   name: Name of Author
@@ -43,8 +43,8 @@ meta:
   # Replace with your tags
   tags:
     - Confetti
-    - Cms
     - Presentation
-    - Speaker Deck
+    - Slide deck
+    - CMS
 
 theme: tangerine
