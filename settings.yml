@@ -1,5 +1,5 @@
 # Presentation category/categories - Required
-categories: [ tag1, tag2, tag3 ]
+categories: [ category ]
 # Presentation title
 title: Title of your beautiful presentation
 # Subtitle - Not mandatory
@@ -8,13 +8,13 @@ subtitle: Presentation subtitle
 cover: cover-intro.jpeg
 # Author - Required
 author:
-  name: Name of Author
-  role: Role
+  name: Author name
+  role: Author role
   picture: http://www.placehold.it/150
 # Demo - not mandatory
-demo: http://www.placehold.it/
+demo: to/be/defined
 # Material - not mandatory
-material: http://www.placehold.it/
+material: to/be/defined
 # Presentation description - not mandatory
 description: >
   <p>
@@ -47,4 +47,4 @@ meta:
     - Slide deck
     - CMS
 
-theme: tangerine
+theme: voice
