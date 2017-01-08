@@ -10,7 +10,11 @@ cover: cover-intro.jpeg
 author:
   name: Author name
   role: Author role
-  picture: http://www.placehold.it/150
+  picture: author-picture.jpg
+  description: >
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  </p>
 # Demo - not mandatory
 demo: to/be/defined
 # Material - not mandatory
