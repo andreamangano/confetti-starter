@@ -1,36 +1,24 @@
 # Presentation category/categories - Required
 categories: [ category ]
 # Presentation title
-title: Title of your beautiful presentation
+title: Title of you beautiful presentation
 # Subtitle - Not mandatory
-subtitle: Presentation subtitle
+subtitle: Subtitle here
 # Cover - Required
 cover: cover-intro.jpg
 # Author - Required
 author:
-  name: Author name
-  role: Author role
+  name: Author Name
+  role: Author Role
   picture: author-picture.jpg
   description: >
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  </p>
-# Demo - not mandatory
-demo: to/be/defined
-# Material - not mandatory
-material: to/be/defined
+    <p>
+      Author description.
+    </p>
 # Presentation description - not mandatory
 description: >
   <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel aliquam eros,
-    quis commodo arcu. Nullam quis tortor efficitur, vestibulum sem non, sollicitudin dolor.
-    Integer non eros vel felis tristique bibendum. Nullam volutpat nunc ante, quis
-    fermentum neque pulvinar nec.
-  </p>
-  <p>
-    Curabitur maximus eleifend tortor, at efficitur orci laoreet nec. Cras eu
-    semper elit, nec hendrerit metus. Nullam eget eros sodales, dapibus
-    diam id, iaculis tortor. Praesent eget rhoncus justo.
+    Introduction to your presentation here.
   </p>
 # Language
 lang: en_EN
@@ -42,7 +30,7 @@ date_format: YYYY-MM-DD
 # Meta tags
 meta:
   # Title - required
-  title: Title of your presentation here
+  title: Title of you beautiful presentation
   description: Description here
   # Replace with your tags
   tags:
@@ -50,5 +38,4 @@ meta:
     - Presentation
     - Slide deck
     - CMS
-
 theme: voice
