@@ -1,7 +1,7 @@
 # Presentation category/categories - Required
 categories: [ category ]
 # Presentation title
-title: Title of you beautiful presentation
+title: Title of your beautiful presentation
 # Subtitle - Not mandatory
 subtitle: Subtitle here
 # Cover - Required
@@ -22,15 +22,10 @@ description: >
   </p>
 # Language
 lang: en_EN
-# Date / Time format
-## Confetti uses Moment.js to parse and display date
-## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
 # Meta tags
 meta:
   # Title - required
-  title: Title of you beautiful presentation
+  title: Title of your beautiful presentation
   description: Description here
   # Replace with your tags
   tags:
