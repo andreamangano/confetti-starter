@@ -28,7 +28,7 @@ meta:
   title: Title of your beautiful presentation
   description: Description here
   # Replace with your tags
-  tags:
+  keywords:
     - Confetti
     - Presentation
     - Slide deck
